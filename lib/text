@@ -1,0 +1,28 @@
+lib/
+├── main.dart
+├── app.dart
+├── core/
+│   ├── services/
+│   │   └── notification_service.dart
+│   └── utils/
+│       └── constants.dart
+├── features/
+│   └── alarm/
+│       ├── data/
+│       │   ├── models/
+│       │   │   └── alarm_model.dart
+│       │   └── datasources/
+│       │       └── alarm_local_datasource.dart
+│       ├── domain/
+│       │   └── repositories/
+│       │       └── alarm_repository.dart
+│       ├── presentation/
+│       │   ├── cubit/
+│       │   │   ├── alarm_cubit.dart
+│       │   │   └── alarm_state.dart
+│       │   └── pages/
+│       │       ├── alarm_page.dart
+│       │       ├── add_alarm_page.dart
+│       │       └── widgets/
+│       │           └── alarm_tile.dart
+│       └── alarm_injection_container.dart
