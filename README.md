@@ -25,4 +25,4 @@
   -------------------------------------------------
   
 ![Screenshot 1447-06-24 at 2.10.32 PM.png](Screenshot1.png)![Screenshot 1447-06-24 at 2.10.21 PM.png](Screenshot2.png)
-[Screen Recording.mp4](Screen%20Recording.mp4)
+![Screen Recording .gif](Screen%20Recording%20.gif)
