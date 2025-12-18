@@ -24,5 +24,4 @@
 * **SharedPreferences** – Local data storage
   -------------------------------------------------
   
-![Screenshot 1447-06-24 at 2.10.32 PM.png](Screenshot1.png)![Screenshot 1447-06-24 at 2.10.21 PM.png](Screenshot2.png)
 ![Screen Recording .gif](Screen%20Recording%20.gif)
