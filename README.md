@@ -22,6 +22,9 @@
 * **GetIt** – Dependency injection
 * **Flutter Local Notifications**
 * **SharedPreferences** – Local data storage
+
+
+
   -------------------------------------------------
   
 ![Screen Recording .gif](Screen%20Recording%20.gif)
